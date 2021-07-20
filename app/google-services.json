@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537600460099",
+    "project_id": "signature-ad6de",
+    "storage_bucket": "signature-ad6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537600460099:android:322eb860385da07d3a9bf6",
+        "android_client_info": {
+          "package_name": "com.example.signature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537600460099-4bhceatmdv1efp73oc856di5qn47e15a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4v27N82Y1X3PqGtyY-5RW0LeU92QXIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537600460099-4bhceatmdv1efp73oc856di5qn47e15a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
